@@ -9,3 +9,5 @@ Moreover, our project includes an automatic water tank management system. With a
 To achieve these functionalities, we have utilized Picsimlab, a versatile tool for simulating and testing microcontroller-based projects. We have also incorporated a serial water tank model, which accurately emulates the behavior of a real water tank, enabling precise control and monitoring.
 
 Overall, our IoT-based home automation system, developed with meticulous SDLC processes, offers convenience, energy efficiency, and resource optimization. We are proud of our team's efforts in creating this advanced and practical solution, and we look forward to further enhancements and applications in the realm of home automation.
+
+EXPLAINATION VIDEO:  https://youtu.be/xZeDcvpeCp8
